@@ -1,0 +1,15 @@
+1|CPFC|rejected|shahriar5655952|651,Nakhalpara,Tesgaon,Dhaka|Spicy Chicken Fry|2|96|192|Chicken Lollipop|1|45|45
+2|Pizza Hut|complete|alamin|Banani|Chicken Pizza|1|430|430|Coke|1|45|45|Pineapple Pizza|1|430|430|Pepsi|2|40|80
+3|Subway|cancelled|alamin|Banani|Tuna Sub Sandwich|3|670|2010
+4|CPFC|cancelled|alamin|Banani|Chicken Breast|3|107|321
+5|Sultans Dine|complete|shahriar5655952|651,Nakhalpara,Tesgaon,Dhaka|biriyani1|2|320|640
+6|Wendys|complete|shahriar5655952|651,Nakhalpara,Tesgaon,Dhaka|burger|2|160|320
+7|Subway|pending|shahriar5655952|651,Nakhalpara,Tesgaon,Dhaka|Tuna Sub Sandwich|1|670|670|Simple Sub Sandwich|2|325|650
+8|KFC|complete|punom|kuratoli|Pepsi|1|50|50|Chicken Bucket|1|900|900
+9|KFC branch 2|complete|punom|kuratoli|Chicken Bucket|1|1200|1200
+10|Pizza Hut|complete|punom|kuratoli|Chicken Pizza|1|430|430|Pepsi|1|40|40
+11|Pizza Hut|complete|afroja|dhaka|Chicken Pizza|1|430|430|Coke|1|45|45
+12|Subway|complete|shahriar_zaman|nakhalpara|Tuna Sub Sandwich|2|670|1340|Simple Sub Sandwich|1|325|325
+13|KFC branch 2|complete|random man|random place|Chicken Bucket|2|1200|2400
+14|KFC|complete|shahriar5655952|651,Nakhalpara,Tesgaon,Dhaka|Boneless Strips|2|800|1600
+16|Burger King branch 3|rejected|shahriar5655952|651,Nakhalpara,Tesgaon,Dhaka|beef burger|1|343|343

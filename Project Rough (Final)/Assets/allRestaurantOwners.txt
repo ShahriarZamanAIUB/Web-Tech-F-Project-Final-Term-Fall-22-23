@@ -1,0 +1,10 @@
+shamsul12x|1123|shamsul@gmail.com|KFC|Sector 11, Uttara|105550
+Iliyas Rahman|ir|ir@hotmail.com|Pizza Hut|Dhanmondi 9/B|105315
+rafiquzzaman|rqz|rqz@gmail.com|CPFC|Sector 9, Uttara|100000
+alimul hasan|ah|ah@gmail.com|Dominos|Baridhara|1200000
+kashem ali|ka|ka@gmail.com|Subway|Asad Gate, Mohammadpur|1209131
+sultan khan|sk|sk@yahoo.com|Sultans Dine|bashundhara|120300
+wadud ali|wa|wa@gmail.com|Wendys|puran dhaka|1100904
+wali ahad|wah|wah@gmail.com|Webdys Branch 2|mohakhali|11993334
+mr kfc|kfc2|kfc2@gmail.com|KFC branch 2|bashundhara|1004200
+joy|joy|joy@gmail.com|Burger King branch 3|aiub|1300000

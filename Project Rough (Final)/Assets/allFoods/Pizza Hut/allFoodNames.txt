@@ -1,0 +1,6 @@
+Beef Pizza|620
+Chicken Pizza|430
+Coke|45
+Pineapple Pizza|430
+Pepsi|40
+7up|35

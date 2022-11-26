@@ -1,0 +1,3 @@
+Teriyaki Sub Sandwich|400
+Tuna Sub Sandwich|670
+Simple Sub Sandwich|325
